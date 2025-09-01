@@ -135,7 +135,7 @@ Options:
 
 ## Development
 
-This section only applies to developers or contributors of this repositorys.
+This section only applies to developers or contributors of this repository.
 
 ### Requirements
 
